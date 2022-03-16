@@ -38,3 +38,14 @@ for (int row = 0; row < array2D.GetLength(0); row++)
     }
     Console.WriteLine();
 }
+
+Console.WriteLine("*****************LOOPS*****************");
+
+int sum = 0;
+
+while(sum<= 100)
+{ Console.WriteLine("Please enter a number!");
+  int.TryParse(Console.ReadLine(), out int numb);
+    sum += numb;
+}
+
