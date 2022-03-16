@@ -11,15 +11,14 @@ for (int i = 0; i <30; i++)
 Console.WriteLine("\n");
 
 // Task 2 by Olga
-int Min = -10;
-int Max = 100;
+
 
 int[] anyArray = new int[5];
-Random random = new Random();
+Random random = new();
 
 for (int i = 0; i < anyArray.Length; i++)
 {
-    anyArray[i] = random.Next(Min, Max);
+    anyArray[i] = random.Next(-10, 100);
     Console.WriteLine(anyArray[i]);
 }
 
