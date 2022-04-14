@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SGT additional tasks", "SGT additional tasks\SGT additional tasks.csproj", "{A06D2971-653A-4661-AAE5-E1EF1CC58866}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A06D2971-653A-4661-AAE5-E1EF1CC58866}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A06D2971-653A-4661-AAE5-E1EF1CC58866}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A06D2971-653A-4661-AAE5-E1EF1CC58866}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A06D2971-653A-4661-AAE5-E1EF1CC58866}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B63D355F-FBCE-4703-9F0C-554E0FE925AA}
+	EndGlobalSection
+EndGlobal
